@@ -7,4 +7,4 @@ I have also use MinMax scaler normalization and Mean absolute error metrics for 
 ![WhatsApp Image 2023-04-20 at 6 41 47 PM](https://user-images.githubusercontent.com/95336274/234176566-dd25496e-ee85-4fe9-a83d-82ad34dd3a7f.jpeg)
 
 ## Final Result
-<img width="1008" alt="Screenshot 2023-04-25 at 3 29 58 AM" src="https://user-images.githubusercontent.com/95336274/234176978-cba21f6e-8d61-44bc-877e-8f4cf8572bd8.png">
+<img width="1028" alt="Screenshot 2023-05-10 at 4 33 59 AM" src="https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM/assets/95336274/2590dc7b-29bb-45ae-b0a2-1bf869db0125">
