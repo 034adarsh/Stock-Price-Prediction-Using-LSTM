@@ -24,8 +24,8 @@ Once the model is trained, we evaluate its performance on the testing dataset. W
 To run the project locally, follow these steps:
 1. Clone this repository: `git clone https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM`
 2. No need to download any dataset, this project uses Yahoo finance library to directly fetch data, just write the correct company code.
-3. Run the `train.py` script to train the LSTM model.
-4. Run the `predict.py` script to make predictions on new data.
+3. Run the `training code` script in the notebook to train the LSTM model.
+4. Run the `predict code` script in the notebook to make predictions on new data.
 
 ## Results and Discussion 📊
 In this section, we present the results of our stock market prediction experiments. We discuss the model's performance, its strengths, limitations, and potential areas of improvement. We also provide visualizations of the predicted stock prices and compare them with the actual prices.
